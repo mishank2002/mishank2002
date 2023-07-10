@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mishank Kumar</h1>
 <h3 align="center">Enthusiastic problem solver, always hungry for knowledge, and on the lookout for exciting opportunities to further develop my skills.</h3>
 
-<img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 📫 reach me on gmail **mishank2002@gmail.com**
 
